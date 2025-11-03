@@ -18,6 +18,7 @@
                         <li><a href="<?php echo home_url('/sitemap'); ?>">Sitemap</a></li>
                         <li><a href="<?php echo home_url('/rss'); ?>">RSS</a></li>
                         <li><a href="<?php echo home_url('/contact-us'); ?>">Contact Us</a></li>
+                        <li><a href="<?php echo home_url('/Terms-and-Conditions'); ?>">Terms & Conditions</a></li>
                     </ul>
                 </div>
 
